@@ -1,5 +1,5 @@
 {
-  "name": "@vorkhat/telegram_test",
+  "name": "@vorkhat/telegram_v4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vorkhat/telegram_test.git"
+    "url": "git+https://github.com/Vorkhat/telegram_v4.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vorkhat/telegram_test/issues"
+    "url": "https://github.com/Vorkhat/telegram_v4/issues"
   },
-  "homepage": "https://github.com/Vorkhat/telegram_test#readme",
+  "homepage": "https://github.com/Vorkhat/telegram_v4#readme",
   "publishConfig": {
-    "@vorkhat:telegram_test": "https://npm.pkg.github.com"
+    "@vorkhat:telegram_v4": "https://npm.pkg.github.com"
   }
 }
